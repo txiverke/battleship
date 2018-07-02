@@ -1,0 +1,9 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "Javascript battleship game",
+  "main": "index.js",
+  "repository": "https://github.com/txiverke/battleship.git",
+  "author": "Xavier Vilà <xavi.vila.albiol@gmail.com>",
+  "license": "MIT"
+}
